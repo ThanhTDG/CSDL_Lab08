@@ -1,0 +1,6 @@
+F:\Project\CSDL\1911205_NguyenHuuDucThanh_Lab08\DataAccess\bin\Debug\DataAccess.dll
+F:\Project\CSDL\1911205_NguyenHuuDucThanh_Lab08\DataAccess\bin\Debug\DataAccess.pdb
+F:\Project\CSDL\1911205_NguyenHuuDucThanh_Lab08\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+F:\Project\CSDL\1911205_NguyenHuuDucThanh_Lab08\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Project\CSDL\1911205_NguyenHuuDucThanh_Lab08\DataAccess\obj\Debug\DataAccess.dll
+F:\Project\CSDL\1911205_NguyenHuuDucThanh_Lab08\DataAccess\obj\Debug\DataAccess.pdb

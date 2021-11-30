@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fa20c59-118c-4979-9898-d807b16bd4f6": {
+      "ProjectGuid": "3fa20c59-118c-4979-9898-d807b16bd4f6",
+      "DisplayName": "1911205_NguyenHuuDucThanh_Lab08",
+      "ColorIndex": 0
+    },
+    "a9d06022-29d0-4178-80ad-6760ec0cb8a7": {
+      "ProjectGuid": "a9d06022-29d0-4178-80ad-6760ec0cb8a7",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "dc9aa87f-150c-4834-a54b-eaed6a798278": {
+      "ProjectGuid": "dc9aa87f-150c-4834-a54b-eaed6a798278",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
